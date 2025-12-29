@@ -1,5 +1,7 @@
 # AISF Application w/ Bipedal Walker
 
+Files and video for AISF Application for ACM AI UCLA 2026
+
 ## Files
 
 initial_PPO.py = the PPO algorithm I generated from Google Gemini
